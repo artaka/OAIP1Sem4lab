@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\prog\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u044B\\Lab4\\Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B73FBA24-8D36-4E14-A680-36FEBD099CA3}|Task1\\Task1.vcxproj|D:\\prog\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u044B\\Lab4\\Lab4\\Lab4\\Task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B73FBA24-8D36-4E14-A680-36FEBD099CA3}|Task1\\Task1.vcxproj|solutionrelative:Lab4\\Task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D315CC61-38AC-40A6-8342-A3F1FD2AE2A8}|Lab4\\Lab4.vcxproj|D:\\prog\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u044B\\Lab4\\Lab4\\Lab4\\Tast2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D315CC61-38AC-40A6-8342-A3F1FD2AE2A8}|Lab4\\Lab4.vcxproj|solutionrelative:Lab4\\Tast2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D532CE-DC35-4537-A5F0-7B67E3FB3745}|OtherTasks\\OtherTasks.vcxproj|D:\\prog\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u044B\\Lab4\\Lab4\\OtherTasks\\Number1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16D532CE-DC35-4537-A5F0-7B67E3FB3745}|OtherTasks\\OtherTasks.vcxproj|solutionrelative:OtherTasks\\Number1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Number1.cpp",
+              "DocumentMoniker": "D:\\prog\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u044B\\Lab4\\Lab4\\OtherTasks\\Number1.cpp",
+              "RelativeDocumentMoniker": "OtherTasks\\Number1.cpp",
+              "ToolTip": "D:\\prog\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u044B\\Lab4\\Lab4\\OtherTasks\\Number1.cpp",
+              "RelativeToolTip": "OtherTasks\\Number1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T11:48:39.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tast2.cpp",
+              "DocumentMoniker": "D:\\prog\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u044B\\Lab4\\Lab4\\Lab4\\Tast2.cpp",
+              "RelativeDocumentMoniker": "Lab4\\Tast2.cpp",
+              "ToolTip": "D:\\prog\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u044B\\Lab4\\Lab4\\Lab4\\Tast2.cpp",
+              "RelativeToolTip": "Lab4\\Tast2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T08:59:03.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task1.cpp",
+              "DocumentMoniker": "D:\\prog\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u044B\\Lab4\\Lab4\\Lab4\\Task1.cpp",
+              "RelativeDocumentMoniker": "Lab4\\Task1.cpp",
+              "ToolTip": "D:\\prog\\\u041E\u0410\u0438\u041F\\\u041B\u0430\u0431\u044B\\Lab4\\Lab4\\Lab4\\Task1.cpp",
+              "RelativeToolTip": "Lab4\\Task1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T08:38:32.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
